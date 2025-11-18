@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Raj!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&middle=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Ankit+Raj!;" />
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate devops engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
